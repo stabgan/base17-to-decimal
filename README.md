@@ -1,2 +1,3 @@
-# base17-to-decimal
-C++ and Java implementation
+# Base-17 to Decimal 
+
+TCS TNQT problem 
